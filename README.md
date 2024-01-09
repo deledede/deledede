@@ -1,6 +1,11 @@
 <h1>Hi, I'm Samson! <br/><a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=deledede20914836">ServiceNow Administrator</a> & <a href="https://www.linkedin.com/in/samson-afolabi-306133193">ServiceNow Developer</a></h1>
 
 <h2>👨‍💻 ServiceNow Hands-on Experiences/Projects:</h2>
+
+<h2>📄Certifications:</h2>
+
+ - [ServiceNow Certified System Administrator](https://imgur.com/NwCZ9bD)
+ 
 <!---
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,6 +23,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 --->
+  
 
 
 <h2> 🤳 Connect with me:</h2>
