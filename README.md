@@ -24,7 +24,6 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 --->
   
- - [ServiceNow Certified System Administrator](https://github.com/deledede/deledede/blob/main/Screenshot%202024-01-09%20003520.png) 
 
 
 <h2> 🤳 Connect with me:</h2>
